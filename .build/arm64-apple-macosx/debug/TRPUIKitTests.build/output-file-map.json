@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/cemcaygoz/Documents/GitHub/ModularIOS/SPM/TRPUIKit/.build/arm64-apple-macosx/debug/TRPUIKitTests.build/master.swiftdeps"
+  },
+  "/Users/cemcaygoz/Documents/GitHub/ModularIOS/SPM/TRPUIKit/Tests/TRPUIKitTests/TRPUIKitTests.swift": {
+    "dependencies": "/Users/cemcaygoz/Documents/GitHub/ModularIOS/SPM/TRPUIKit/.build/arm64-apple-macosx/debug/TRPUIKitTests.build/TRPUIKitTests.d",
+    "object": "/Users/cemcaygoz/Documents/GitHub/ModularIOS/SPM/TRPUIKit/.build/arm64-apple-macosx/debug/TRPUIKitTests.build/TRPUIKitTests.swift.o",
+    "swiftmodule": "/Users/cemcaygoz/Documents/GitHub/ModularIOS/SPM/TRPUIKit/.build/arm64-apple-macosx/debug/TRPUIKitTests.build/TRPUIKitTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/cemcaygoz/Documents/GitHub/ModularIOS/SPM/TRPUIKit/.build/arm64-apple-macosx/debug/TRPUIKitTests.build/TRPUIKitTests.swiftdeps"
+  }
+}

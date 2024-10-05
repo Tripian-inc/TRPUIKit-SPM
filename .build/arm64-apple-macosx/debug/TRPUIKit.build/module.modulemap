@@ -1,0 +1,4 @@
+module TRPUIKit {
+    header "/Users/cemcaygoz/Documents/GitHub/ModularIOS/SPM/TRPUIKit/.build/arm64-apple-macosx/debug/TRPUIKit.build/TRPUIKit-Swift.h"
+    requires objc
+}

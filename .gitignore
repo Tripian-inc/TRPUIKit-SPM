@@ -1,0 +1,8 @@
+build/
+Carthage/
+Carthage/Build/
+/.DS_Store
+.DS_Store
+xcuserdata/
+/TRPUIKit.xcodeproj/project.xcworkspace/xcuserdata
+/TRPUIKit.xcodeproj/xcuserdata
